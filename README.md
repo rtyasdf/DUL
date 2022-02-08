@@ -3,3 +3,4 @@
 - [GAN](https://github.com/rtyasdf/DUL/tree/gans)
 - [DRE](https://github.com/rtyasdf/DUL/tree/dre)
 - [EBM](https://github.com/rtyasdf/DUL/tree/ebm)
+- [Self-Supervised](https://github.com/rtyasdf/DUL/tree/self-supervised)
