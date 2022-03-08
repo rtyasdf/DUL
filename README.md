@@ -5,3 +5,5 @@
 - [EBM](https://github.com/rtyasdf/DUL/tree/ebm)
 - [Self-Supervised: part 1](https://github.com/rtyasdf/DUL/tree/self-supervised)
 - [Self-Supervised: part 2](https://github.com/rtyasdf/DUL/tree/self-supervised-2)
+- [Semi-Supervised](https://github.com/rtyasdf/DUL/tree/semi-supervised)
+- [RealNVP](https://github.com/rtyasdf/DUL/tree/realnvp)
