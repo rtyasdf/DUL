@@ -8,3 +8,4 @@
 - [Semi-Supervised](https://github.com/rtyasdf/DUL/tree/semi-supervised)
 - [RealNVP](https://github.com/rtyasdf/DUL/tree/realnvp)
 - [MetaLearning](https://github.com/rtyasdf/DUL/tree/meta)
+- [Diffusion](https://github.com/rtyasdf/DUL/tree/diff)
