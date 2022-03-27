@@ -9,3 +9,4 @@
 - [RealNVP](https://github.com/rtyasdf/DUL/tree/realnvp)
 - [MetaLearning](https://github.com/rtyasdf/DUL/tree/meta)
 - [Diffusion](https://github.com/rtyasdf/DUL/tree/diff)
+- [CNF](https://github.com/rtyasdf/DUL/tree/cnf)
